@@ -1,0 +1,29 @@
+ 
+            body {
+                font-family: Verdana, sans-serif;
+            }
+
+            .header {
+                background-color: rgb(45,114,235);
+                color:  white;
+                text-align: center;
+                padding: 6px;
+            }
+
+            .about-me {
+                background-color: rgb(102, 255, 153);
+                border-radius: 10px;
+                width: 400px;
+                padding-bottom: 6px;
+                padding-top: 1px;
+            }
+
+            .footer {
+                background-color: rgb(45,114,235);
+                color:  white;
+                text-align: center;
+                padding: 6px;
+                position: fixed;
+                bottom: 6px;
+                width: 100%;
+            }
